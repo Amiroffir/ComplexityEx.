@@ -1,7 +1,5 @@
 /**
  * @author Amir Offir
- * @version 14/05/22
- * Id: 315454132
  * 
  * Question 1 answers:
  * Section A: the true claims are -  3,5.
